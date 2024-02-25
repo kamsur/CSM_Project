@@ -1,0 +1,16 @@
+Rating:
+5HP 500V 1750RPM Field:300V
+Calculated rated torque=5HP/1750RPM=20.3536 Nm=Load torque
+Ra=11.2ohm La=0.1215H
+Rf=281.3ohm Lf=156H
+Field-armature mutual ind. Laf=1.976H
+Total inertia J=0.02215kgm^2
+Viscous friction coeffn. Bm=0.002953Nms
+Coulomb friction torque Tf=0.5161Nm
+
+rad/s to RPM gain=9.5493
+Target speed=1750 RPM
+
+Graphs Link:
+https://onedrive.live.com/view.aspx?resid=D5522254B8323D27%21955&id=documents&wd=target%28SysDesign.one%7C9C6F816B-C9DE-4324-98C3-EEF51B20BAAE%2F%29
+onenote:https://d.docs.live.net/d5522254b8323d27/Documents/K%20M's%20Notebook/SysDesign.one#section-id={9C6F816B-C9DE-4324-98C3-EEF51B20BAAE}&end
